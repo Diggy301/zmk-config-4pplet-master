@@ -8,3 +8,4 @@ https://github.com/4pplet/cyber60
 # Status:
 - Revision B, C and D: Buzzer and RGB led implemented as Bluetooth profile indicators.
 - Updated to Zephyr 3.0
+
